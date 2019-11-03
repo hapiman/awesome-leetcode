@@ -76,4 +76,6 @@
 
 [leetcode中国站-力扣](https://leetcode-cn.com)
 
-[Vscode-leetcode](https://github.com/jdneo/vscode-leetcode)
+[Vscode-leetcode](https://github.com/jdneo/vscode-leetcode)，Solve LeetCode problems in VS Code
+
+如果你看到比较赞的`leetcode`的项目，欢迎推荐，谢谢！
