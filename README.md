@@ -6,7 +6,7 @@
 
 [leetcode刷题记录](https://github.com/lc222/LeeCode)
 
-[LeetCodeAnimation--用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)（推荐），用动画的形式呈现解LeetCode题目的思路
 
 [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 
@@ -40,7 +40,7 @@
 
 [https://github.com/ChrisXu1006/Leecode](https://github.com/ChrisXu1006/Leecode)
 
-[https://github.com/grandyang/leetcode](https://github.com/grandyang/leetcode),文章通过issue来呈现。
+[https://github.com/grandyang/leetcode](https://github.com/grandyang/leetcode)，文章通过issue来呈现。
 
 [https://github.com/gzwl/leetcode](https://github.com/gzwl/leetcode)
 
@@ -68,9 +68,9 @@
 
 ### 多语言 
 
-[https://github.com/luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode)
+[https://github.com/luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode)（推荐）
 
-[https://github.com/azl397985856/leetcode（推荐）](https://github.com/azl397985856/leetcode)
+[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)（推荐）
 
 ## 其他 
 
