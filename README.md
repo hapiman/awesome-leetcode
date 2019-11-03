@@ -49,7 +49,7 @@
 [https://github.com/begeekmyfriend/leetcode](https://github.com/begeekmyfriend/leetcode)
 
 ### Golang 
-[LeeCode题目1008道，go语言版全解](https://github.com/lc222/LeeCode)
+[https://github.com/lc222/LeeCode](https://github.com/lc222/LeeCode)，LeeCode题目1008道，go语言版全解
 
 [https://github.com/aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go)
 
